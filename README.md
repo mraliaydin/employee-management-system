@@ -43,8 +43,9 @@ npm run dev
 
 
 <img align="center" alt="Coding" width="500" src="https://ik.imagekit.io/mralyaydin/Employee%20Management%20System/Ekran%20Resmi%202023-09-07%2016.55.51.png?updatedAt=1694095254538">
-<img align="center" alt="Coding" width="500" src="https://ik.imagekit.io/mralyaydin/Employee%20Management%20System/Ekran%20Resmi%202023-09-07%2016.56.54.png?updatedAt=1694095257617">
 <img align="center" alt="Coding" width="500" src="https://ik.imagekit.io/mralyaydin/Employee%20Management%20System/Ekran%20Resmi%202023-09-07%2016.57.08.png?updatedAt=1694095261071">
+<img align="center" alt="Coding" width="500" src="https://ik.imagekit.io/mralyaydin/Employee%20Management%20System/Ekran%20Resmi%202023-09-07%2016.56.54.png?updatedAt=1694095257617">
+
 <img align="center" alt="Coding" width="500" src="https://ik.imagekit.io/mralyaydin/Employee%20Management%20System/Ekran%20Resmi%202023-09-07%2016.56.19.png?updatedAt=1694095263717">
 <img align="center" alt="Coding" width="500" src="https://ik.imagekit.io/mralyaydin/Employee%20Management%20System/Ekran%20Resmi%202023-09-07%2016.56.29.png?updatedAt=1694095266615">
 
