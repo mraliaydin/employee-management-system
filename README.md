@@ -41,6 +41,10 @@ npm run dev
 * react-router-dom is used for navigation/link/routing purposes.
 * There is no context management bc its a small project :)
 
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
